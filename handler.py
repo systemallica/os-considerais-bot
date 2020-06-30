@@ -6,7 +6,7 @@ from pathlib import Path
 from random import randrange
 
 
-# Logging is cool!
+# Enable logging
 logger = logging.getLogger()
 if logger.handlers:
     for handler in logger.handlers:
@@ -23,7 +23,7 @@ ERROR_RESPONSE = {
     'body': json.dumps('Oops, something went wrong!')
 }
 
-path = Path(__file__).parent / "../raw/filtered_words.txt"
+path = Path(__file__).parent / "raw/filtered_words.txt"
 words_file = open(path, 'r')
 words = words_file.readlines()
 
@@ -58,12 +58,13 @@ def webhook(event, context):
 
         if text == '/start':
             text = "Hello!"
+            bot.sendMessage(chat_id=chat_id, text=text)
+            logger.info('Message sent')
         elif text == "/consideracion":
             word = words[randrange(len(words))]
             text = "¿Os consideráis " + word.strip() + "?"
-
-        bot.sendMessage(chat_id=chat_id, text=text)
-        logger.info('Message sent')
+            bot.sendMessage(chat_id=chat_id, text=text)
+            logger.info('Message sent')
 
         return OK_RESPONSE
 

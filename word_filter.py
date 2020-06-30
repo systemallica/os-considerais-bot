@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path(__file__).parent / "../raw/words.txt"
+path = Path(__file__).parent / "raw/words.txt"
 words_file = open(path, 'r')
 words = words_file.readlines()
 
