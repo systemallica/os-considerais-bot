@@ -3,6 +3,7 @@ service: os-considerais-bot
 provider:
   name: aws
   runtime: python3.7
+  region: eu-west-1
   environment:
     TELEGRAM_TOKEN: ${file(./serverless.env.yml):TELEGRAM_TOKEN, ''}
 
