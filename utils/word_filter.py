@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path(__file__).parent / "raw/words.txt"
+path = Path(__file__).parent / "../raw/words.txt"
 words_file = open(path, 'r')
 words = words_file.readlines()
 
@@ -21,7 +21,7 @@ for word in words:
 
 print("Filtered dictionary length:", len(filtered_words))
 
-path = Path(__file__).parent / "./raw/filtered_words.txt"
+path = Path(__file__).parent / "../raw/filtered_words.txt"
 with open(path, "w") as txt_file:
     for word in filtered_words:
         txt_file.write(word)
