@@ -344,7 +344,7 @@ abrochamientos
 abrogaciones
 abrojales
 abrojillos
-abrojin
+abrojines
 abrojos
 abromas
 abromados
@@ -655,7 +655,7 @@ aceleradas
 acelerados
 acelerador
 aceleramientos
-aceleratriz
+aceleratrices
 aceleres
 acelerometros
 acelerones
@@ -736,7 +736,7 @@ acetilos
 acetilsalicilicos
 acetimetrias
 acetimetros
-acetin
+acetines
 acetites
 acetos
 acetonas
@@ -788,7 +788,7 @@ achicharrantes
 achichincles
 achicoreros
 achicorias
-achin
+achines
 achinados
 achinelados
 achinerias
@@ -1126,7 +1126,7 @@ activos
 actos
 actor
 actorales
-actriz
+actrices
 actuaciones
 actuados
 actuales
@@ -1441,7 +1441,7 @@ adoptandos
 adoptantes
 adoptivos
 adoquieras
-adoquin
+adoquines
 adoquinados
 adoquinador
 ador
@@ -1450,7 +1450,7 @@ adoraciones
 adorador
 adorantes
 adoratorios
-adoratriz
+adoratrices
 adormecedor
 adormecimientos
 adormideras
@@ -1719,7 +1719,7 @@ afiligranados
 afilos
 afilones
 afilosofados
-afin
+afines
 afinaciones
 afinados
 afinador
@@ -2232,7 +2232,7 @@ aguilillas
 aguilones
 aguilonias
 aguiluchos
-aguin
+aguines
 aguinaldos
 agüios
 aguisados
@@ -2256,7 +2256,7 @@ aguosidades
 aguosos
 agur
 agusanamientos
-agustin
+agustines
 agustinianismos
 agustinianos
 agustinismos
@@ -2477,7 +2477,7 @@ ajobillas
 ajoblancos
 ajobos
 ajofainas
-ajolin
+ajolines
 ajolios
 ajolotados
 ajolotes
@@ -2595,7 +2595,7 @@ alambreras
 alambrillas
 alambristas
 alamedas
-alamin
+alamines
 alaminas
 alaminazgos
 alamirres
@@ -2709,7 +2709,7 @@ albarderas
 albarderias
 albarderos
 albardillas
-albardin
+albardines
 albardones
 albardonerias
 albardoneros
@@ -2777,7 +2777,7 @@ albicantes
 albigenses
 albillas
 albillos
-albin
+albines
 albinas
 albinismos
 albinos
@@ -2821,7 +2821,7 @@ alborozamientos
 alborozos
 albortos
 alborzos
-albotin
+albotines
 albricias
 albricias
 albudecas
@@ -2905,7 +2905,7 @@ alcaloides
 alcaloideos
 alcalometrias
 alcalosis
-alcamiz
+alcamices
 alcamonias
 alcanas
 alcanas
@@ -3078,7 +3078,7 @@ aleccionamientos
 aleces
 aleches
 alechugados
-alecrin
+alecrines
 alectomancias
 alectorias
 aledas
@@ -3086,7 +3086,7 @@ aledaños
 alef
 alefanginas
 alefatos
-alefriz
+alefrices
 alegaciones
 alegador
 alegales
@@ -3139,7 +3139,7 @@ alentador
 alentosos
 aleonados
 alepatos
-alepin
+alepines
 alerces
 alergenicos
 alergenos
@@ -3169,7 +3169,7 @@ aleutianos
 alevantadizos
 aleves
 alevillas
-alevin
+alevines
 alevinos
 alevosas
 alevosias
@@ -3216,7 +3216,7 @@ alfanumericos
 alfaques
 alfaqueques
 alfaquies
-alfaquin
+alfaquines
 alfaraz
 alfardas
 alfardillas
@@ -3252,7 +3252,7 @@ alfilerillos
 alfileteros
 alfinges
 alfitetes
-alfiz
+alfices
 alfocigos
 alfolies
 alfolieros
@@ -3271,7 +3271,7 @@ alfonsinas
 alfonsinos
 alfonsismos
 alforfones
-alforin
+alforines
 alforjas
 alforjeros
 alforjones
@@ -3326,7 +3326,7 @@ algodonosos
 algoles
 algonquinos
 algorfas
-algorin
+algorines
 algoritmias
 algoritmicos
 algoritmos
@@ -3343,7 +3343,7 @@ alguacilillos
 alguandres
 alguaquidas
 alguaquideros
-alguarin
+alguarines
 alguarismos
 alguazas
 algueros
@@ -3368,7 +3368,7 @@ alhameles
 alhamies
 alhandales
 alhanias
-alhaquin
+alhaquines
 alharacas
 alharaqueros
 alharaquientos
@@ -3387,7 +3387,7 @@ alhombras
 alhondigas
 alhondigueros
 alhories
-alhorin
+alhorines
 alhorras
 alhorres
 alhorrias
@@ -3494,7 +3494,7 @@ aliños
 aliñosos
 alioj
 aliolies
-alionin
+alionines
 alipatas
 alipedes
 alipedos
@@ -3567,7 +3567,7 @@ allas
 allanabarrancos
 allanador
 allanamientos
-allariz
+allarices
 allegaderas
 allegadizos
 allegados
@@ -3721,7 +3721,7 @@ almodones
 almodovareños
 almodrotes
 almofallas
-almofariz
+almofarices
 almofias
 almoflates
 almofrej
@@ -3786,7 +3786,7 @@ almudadas
 almudejos
 almuderos
 almudies
-almuecin
+almuecines
 almuedanos
 almueden
 almuercerias
@@ -3848,7 +3848,7 @@ alopecuros
 alopiados
 alopicias
 aloques
-aloquin
+aloquines
 aloras
 alosas
 alosnas
@@ -3867,7 +3867,7 @@ alpargaterias
 alpargateros
 alpartaz
 alpatanas
-alpechin
+alpechines
 alpechineras
 alpendes
 alpes
@@ -4000,7 +4000,7 @@ alturas
 aluas
 alubias
 aluches
-alucin
+alucines
 alucinaciones
 alucinados
 alucinador
@@ -4361,7 +4361,7 @@ amillonados
 amiloideos
 amilosas
 amimias
-amin
+amines
 aminas
 aminicos
 aminos
@@ -4401,7 +4401,7 @@ amolados
 amoladones
 amolador
 amoladuras
-amolanchin
+amolanchines
 amoldables
 amoldador
 amoldamientos
@@ -4760,7 +4760,7 @@ andanzas
 andarajes
 andaricas
 andariegos
-andarin
+andarines
 andarinas
 andariveles
 andarrayas
@@ -4910,7 +4910,7 @@ angelicas
 angelicales
 angelicos
 angelicos
-angelin
+angelines
 angelinos
 angelitos
 angelologias
@@ -5213,7 +5213,7 @@ anteguerras
 antehistoricos
 anteiglesias
 anteislamicos
-antejardin
+antejardines
 antejos
 antejuicios
 antelaciones
@@ -6114,7 +6114,7 @@ apremiantes
 apremios
 aprendedor
 aprendientes
-aprendiz
+aprendices
 aprendizajes
 aprensador
 aprensaduras
@@ -6319,7 +6319,7 @@ arazas
 arbalestrillas
 arbelcoran
 arbellones
-arbequin
+arbequines
 arbitrables
 arbitraderos
 arbitrador
@@ -6516,7 +6516,7 @@ arequipes
 arequipeños
 arestas
 arestil
-arestin
+arestines
 arestinados
 aretalogias
 aretalogicos
@@ -6642,7 +6642,7 @@ arisprietos
 aristas
 aristados
 aristarcos
-aristin
+aristines
 aristinos
 aristocracias
 aristocratas
@@ -6661,7 +6661,7 @@ aritmeticas
 aritmeticos
 aritmometros
 arjoran
-arlequin
+arlequines
 arlequinadas
 arlequinescos
 arlos
@@ -6733,7 +6733,7 @@ arnadies
 arnascas
 arnauchos
 arnautes
-arnequin
+arnequines
 arnes
 arnicas
 arnillos
@@ -6814,7 +6814,7 @@ arracheras
 arracimados
 arraclan
 arraeces
-arrafiz
+arrafices
 arragoces
 arragres
 arraigadas
@@ -6904,7 +6904,7 @@ arregazados
 arregladas
 arreglados
 arreglador
-arreglin
+arreglines
 arreglistas
 arreglos
 arregostos
@@ -6942,11 +6942,11 @@ arrepisos
 arrepistos
 arrepticios
 arrequifes
-arrequin
+arrequines
 arrequives
 arrestados
 arrestos
-arretin
+arretines
 arretrancas
 arrevesados
 arrevistados
@@ -7343,7 +7343,7 @@ aserrador
 aserradoras
 aserraduras
 aserrerias
-aserrin
+aserrines
 aserrios
 asertivos
 asertos
@@ -7405,7 +7405,7 @@ asimilismos
 asimilistas
 asimismos
 asimplados
-asin
+asines
 asinas
 asincronias
 asincronicos
@@ -7904,7 +7904,7 @@ atracciones
 atracos
 atracones
 atractivos
-atractriz
+atractrices
 atraibles
 atraidorados
 atraimientos
@@ -8199,7 +8199,7 @@ automedontes
 automercados
 automociones
 automotor
-automotriz
+automotrices
 automovil
 automovilismos
 automovilistas
@@ -8731,7 +8731,7 @@ bacias
 bacigas
 bacillos
 bacilos
-bacin
+bacines
 bacinas
 bacinadas
 bacinador
@@ -8834,7 +8834,7 @@ bailador
 bailantas
 bailantes
 bailaor
-bailarin
+bailarines
 bailarinas
 bailes
 bailecitos
@@ -8873,7 +8873,7 @@ bajeces
 bajezas
 bajiales
 bajillos
-bajin
+bajines
 bajines
 bajios
 bajistas
@@ -8916,7 +8916,7 @@ balances
 balanceador
 balanceos
 balanceros
-balancin
+balancines
 balandras
 balandran
 balandristas
@@ -8965,7 +8965,7 @@ baldas
 baldados
 baldaduras
 baldamientos
-baldaquin
+baldaquines
 baldazos
 baldes
 baldeos
@@ -8979,7 +8979,7 @@ baldonamientos
 baldonos
 baldosas
 baldosador
-baldosin
+baldosines
 baldosones
 baldragas
 baldres
@@ -9000,9 +9000,9 @@ balhurrias
 baliceros
 balidos
 balijues
-balimbin
+balimbines
 balimbing
-balin
+balines
 balineras
 balineros
 balines
@@ -9135,20 +9135,20 @@ banderias
 banderillas
 banderillazos
 banderilleros
-banderin
+banderines
 banderizos
 banderos
 banderolas
 bandidajes
 bandidencias
 bandidos
-bandin
+bandines
 bandos
 bandolas
 bandoleras
 bandolerismos
 bandoleros
-bandolin
+bandolines
 bandolinas
 bandolinistas
 bandolones
@@ -9393,7 +9393,7 @@ barman
 barn
 barnabitas
 barnaclas
-barniz
+barnices
 barnizados
 barnizador
 barnizaduras
@@ -9413,7 +9413,7 @@ barquillas
 barquilleras
 barquilleros
 barquillos
-barquin
+barquines
 barquinazos
 barquineras
 barquinos
@@ -9660,8 +9660,8 @@ batimetrias
 batimetricos
 batimetros
 batimientos
-batin
-batintin
+batines
+batintines
 batipelagicos
 batiportes
 batiscafos
@@ -9786,7 +9786,7 @@ becerrillos
 becerristas
 becerros
 bechameles
-becoquin
+becoquines
 becoquinos
 becquereles
 becquerianas
@@ -9826,7 +9826,7 @@ beisboleros
 beisbolistas
 bejaranos
 bejeranos
-bejin
+bejines
 bejucales
 bejucos
 bejuquedas
@@ -9871,7 +9871,7 @@ belladonas
 bellaquerias
 bellardinas
 bellasombras
-belleguin
+belleguines
 bellezas
 bellidos
 bellisimas
@@ -9933,11 +9933,11 @@ bengalies
 benianos
 benignidades
 benignos
-benimerin
+benimerines
 benines
 beninos
 benitos
-benjamin
+benjamines
 benjamitas
 benjuies
 benteveos
@@ -9979,7 +9979,7 @@ berenguelas
 berenjenas
 berenjenados
 berenjenales
-berenjenin
+berenjenines
 bergadan
 bergadanos
 bergamascos
@@ -9987,7 +9987,7 @@ bergamotas
 bergamotes
 bergamotos
 bergantes
-bergantin
+bergantines
 beriberies
 berilios
 berilos
@@ -9995,7 +9995,7 @@ beritenses
 berkelios
 berlandinas
 berlangas
-berlin
+berlines
 berlinas
 berlines
 berlingas
@@ -10026,16 +10026,16 @@ berrañas
 berrazas
 berreas
 berrejos
-berrenchin
+berrenchines
 berrendos
 berreos
 berreones
 berreras
 berretas
 berretes
-berretin
+berretines
 berridos
-berrin
+berrines
 berrinches
 berrinchudos
 berros
@@ -10158,7 +10158,7 @@ bichas
 biches
 bicheros
 bichicomes
-bichin
+bichines
 bichinos
 bichitos
 bichos
@@ -10175,7 +10175,7 @@ bicolor
 biconcavos
 biconvexos
 bicoquetes
-bicoquin
+bicoquines
 bicornes
 bicornios
 bicos
@@ -10287,7 +10287,7 @@ bilis
 biliteros
 billas
 billaldas
-billamarquin
+billamarquines
 billardas
 billaristas
 billaristicos
@@ -10458,7 +10458,7 @@ biscochos
 biscotes
 bisecciones
 bisector
-bisectriz
+bisectrices
 biseles
 biselador
 bisemanales
@@ -10645,7 +10645,7 @@ bluf
 blufileños
 blusas
 blusones
-bluyin
+bluyines
 boas
 boalajes
 boaqueños
@@ -10705,14 +10705,14 @@ bocezos
 bochas
 bochazos
 boches
-bochin
+bochines
 bochinches
 bochincheros
 bochistas
 bochos
 bochornos
 bochornosos
-bocin
+bocines
 bocinas
 bocinazos
 bocinegros
@@ -10828,7 +10828,7 @@ boletas
 boleteos
 boleterias
 boleteros
-boletin
+boletines
 boletos
 bolies
 boliacos
@@ -10843,7 +10843,7 @@ bolihoyos
 bolillas
 bolilleros
 bolillos
-bolin
+bolines
 bolinas
 bolinchas
 bolinches
@@ -10881,7 +10881,7 @@ bolserias
 bolseros
 bolsicos
 bolsillos
-bolsin
+bolsines
 bolsistas
 bolsos
 bolsones
@@ -10909,7 +10909,7 @@ bomberos
 bombetas
 bombillas
 bombillos
-bombin
+bombines
 bombos
 bombones
 bombonas
@@ -10999,7 +10999,7 @@ boquihundidos
 boquillas
 boquilleros
 boquimuelles
-boquin
+boquines
 boquinaturales
 boquinegros
 boquinos
@@ -11090,7 +11090,7 @@ borracheras
 borracherias
 borracheros
 borracheces
-borrachin
+borrachines
 borrachos
 borrachometros
 borrachuelas
@@ -11196,7 +11196,7 @@ botejas
 botellas
 botellazos
 botelleros
-botellin
+botellines
 botellitas
 botellones
 boterias
@@ -11216,13 +11216,13 @@ botillas
 botillerias
 botilleros
 botillos
-botin
+botines
 botinas
 botinerias
 botineros
 botiondos
 botiquerias
-botiquin
+botiquines
 botitos
 botivoleos
 botos
@@ -11262,7 +11262,7 @@ boyales
 boyantes
 boyardas
 boyardos
-boyarin
+boyarines
 boyeras
 boyerizas
 boyerizos
@@ -11311,7 +11311,7 @@ bragueteros
 braguillas
 brahman
 brahmanismos
-brahmin
+brahmines
 brahones
 brahoneras
 brailles
@@ -11460,7 +11460,7 @@ brillantinas
 brillazones
 brillos
 brillosos
-brin
+brines
 brincacharcos
 brincaderos
 brincador
@@ -11658,7 +11658,7 @@ bubones
 bubonicos
 bubosos
 bubuchas
-bubulin
+bubulines
 bucales
 bucaneros
 bucarales
@@ -11678,7 +11678,7 @@ buchadas
 buches
 buchetas
 buchetes
-buchin
+buchines
 buchinches
 buchiplumas
 buchones
@@ -11694,7 +11694,7 @@ bucolismos
 budas
 budares
 budicos
-budin
+budines
 budineras
 budiones
 budismos
@@ -11801,7 +11801,7 @@ bulies
 bulicos
 bulimias
 bulimicos
-bulin
+bulines
 bullas
 bullabesas
 bullajes
@@ -11821,7 +11821,7 @@ bultos
 bululues
 bum
 bumangues
-bumbulin
+bumbulines
 bumeran
 bumeran
 bungalos
@@ -12224,7 +12224,7 @@ cachador
 cachaduras
 cachafaz
 cachalotes
-cachamarin
+cachamarines
 cachañas
 cachanchan
 cachanlaguas
@@ -12252,7 +12252,7 @@ cachazos
 cachazudos
 caches
 cachelos
-cachemarin
+cachemarines
 cachemiras
 cacheos
 cacheras
@@ -12269,7 +12269,7 @@ cachicamos
 cachican
 cachicuernos
 cachidiablos
-cachiflin
+cachiflines
 cachigordos
 cachilas
 cachilladas
@@ -12286,7 +12286,7 @@ cachimbones
 cachinas
 cachinerias
 cachineros
-cachinflin
+cachinflines
 cachipollas
 cachiporras
 cachiporrazos
@@ -12313,7 +12313,7 @@ cachondeos
 cachondeces
 cachondieces
 cachondos
-cachopin
+cachopines
 cachopos
 cachorras
 cachorreñas
@@ -12335,7 +12335,7 @@ cachullapies
 cachumbambes
 cachumbos
 cachundes
-cachupin
+cachupines
 cachupinadas
 cachurecos
 cachureos
@@ -12439,7 +12439,7 @@ cafetaleros
 cafeteras
 cafeterias
 cafeteros
-cafetin
+cafetines
 cafetos
 cafetuchos
 cafiches
@@ -12449,12 +12449,12 @@ caficulturas
 cafilas
 cafiroletas
 cafishos
-cafiz
+cafices
 cafizamientos
 cafres
 caftan
 cagaaceites
-cagachin
+cagachines
 cagadas
 cagadales
 cagaderos
@@ -12481,11 +12481,11 @@ cagues
 cagüeños
 caguetas
 cahitas
-cahiz
+cahices
 cahizadas
 cahuamas
 cahuercos
-cahuin
+cahuines
 caies
 caies
 caibles
@@ -12504,7 +12504,7 @@ caimaneras
 caimientos
 caimitales
 caimitos
-Cain
+Caines
 cainismos
 cainitas
 caipiriñas
@@ -12527,13 +12527,13 @@ cajeros
 cajetas
 cajetes
 cajetillas
-cajetin
+cajetines
 cajies
 cajigas
 cajigales
 cajigos
 cajillas
-cajin
+cajines
 cajistas
 cajos
 cajones
@@ -12551,7 +12551,7 @@ calabaceras
 calabaceros
 calabacil
 calabacillas
-calabacin
+calabacines
 calabacinates
 calabacinos
 calabacitas
@@ -12587,7 +12587,7 @@ calafateador
 calafateaduras
 calafateos
 calafaterias
-calafatin
+calafatines
 calagozos
 calagrañas
 calagualas
@@ -12684,13 +12684,13 @@ calcetas
 calcetas
 calceterias
 calceteros
-calcetin
+calcetines
 calcetos
 calcetones
 calchas
 calchacuras
 calchaquies
-calchin
+calchines
 calchones
 calchonas
 calchudos
@@ -12747,7 +12747,7 @@ calderetas
 caldereteros
 calderil
 calderillas
-calderin
+calderines
 calderos
 calderones
 calderonianos
@@ -12797,7 +12797,7 @@ cales
 calesas
 caleseras
 caleseros
-calesin
+calesines
 calesineros
 calesitas
 caletas
@@ -12875,7 +12875,7 @@ calisayas
 calistenias
 calitipias
 calivos
-caliz
+calices
 calizas
 calizos
 callas
@@ -12970,7 +12970,7 @@ calpixques
 calpul
 calpullies
 calqueños
-calquin
+calquines
 calsecos
 caltas
 caluchas
@@ -13065,7 +13065,7 @@ camarientos
 camarillas
 camarilleras
 camarillescos
-camarin
+camarines
 camarinas
 camaristas
 camarlengos
@@ -13095,7 +13095,7 @@ camballadas
 cambalud
 cambaras
 cambaras
-cambarin
+cambarines
 cambaros
 camberas
 camberos
@@ -13112,7 +13112,7 @@ cambiavias
 cambiazos
 cambijas
 cambimboras
-cambin
+cambines
 cambios
 cambistas
 cambium
@@ -13206,7 +13206,7 @@ camiserias
 camiseros
 camisetas
 camisolas
-camisolin
+camisolines
 camisones
 camisotes
 camitas
@@ -13259,7 +13259,7 @@ campantes
 campanudos
 campanulas
 campanulaceos
-camparin
+camparines
 campeadas
 campeador
 campechanas
@@ -13452,7 +13452,7 @@ cancillas
 cancilleras
 cancillerescos
 cancillerias
-cancin
+cancines
 cancinas
 canciones
 cancioneril
@@ -13565,7 +13565,7 @@ cañetanos
 cañetes
 caney
 caneces
-canfin
+canfines
 canfinforas
 canfor
 canforas
@@ -13716,11 +13716,11 @@ cantarerias
 cantareros
 cantaridas
 cantarillas
-cantarin
+cantarines
 cantaros
 cantarranas
 cantatas
-cantatriz
+cantatrices
 cantautor
 cantazos
 cantes
@@ -13802,7 +13802,7 @@ caobas
 caobanas
 caobillas
 caobos
-caolin
+caolines
 caolinizaciones
 caos
 caoticos
@@ -13889,7 +13889,7 @@ capilleros
 capilletas
 capillos
 capilludos
-capin
+capines
 capinchos
 capingos
 capinoteños
@@ -13995,7 +13995,7 @@ capueras
 capuletos
 capulies
 capulidos
-capulin
+capulines
 capulinas
 capullinas
 capullos
@@ -14438,13 +14438,13 @@ caritateros
 caritativos
 carites
 cariuchos
-cariz
+carices
 carlas
 carlancas
 carlancos
 carlancones
 carletas
-carlin
+carlines
 carlinas
 carlinchos
 carlingas
@@ -14468,7 +14468,7 @@ carmentinas
 carmes
 carmesies
 carmesitas
-carmin
+carmines
 carminativos
 carmineos
 carminitas
@@ -14661,7 +14661,7 @@ carretoncillos
 carretoneros
 carric
 carriceras
-carricerin
+carricerines
 carriceros
 carricillos
 carricoches
@@ -14693,7 +14693,7 @@ carros
 carrocerias
 carroceros
 carrochas
-carrocin
+carrocines
 carromateros
 carromatos
 carrones
@@ -14814,7 +14814,7 @@ casanarenses
 casanovas
 casapuertas
 casaquillas
-casaquin
+casaquines
 casariegos
 casarones
 casatenientes
@@ -15045,7 +15045,7 @@ catabolicos
 catabolismos
 catabres
 catacaldos
-catachin
+catachines
 cataclismos
 catacresis
 catacumbas
@@ -15106,7 +15106,7 @@ catarrientos
 catarrinos
 catarros
 catarrosos
-catarrufin
+catarrufines
 catarsis
 catarticos
 catartiformes
@@ -15185,7 +15185,7 @@ catiguas
 catilinarias
 catimbaos
 catimias
-catin
+catines
 catingas
 catingosos
 catingudos
@@ -15228,7 +15228,7 @@ catrachos
 catres
 catrecillos
 catricofres
-catrin
+catrines
 caturras
 caubas
 caucas
@@ -15301,7 +15301,7 @@ cautelosos
 cauterios
 cauterizaciones
 cauterizador
-cautin
+cautines
 cautivador
 cautiverios
 cautividades
@@ -15587,7 +15587,7 @@ celebreros
 celebridades
 celebros
 celedones
-celemin
+celemines
 celeminadas
 celemineros
 celendinos
@@ -16035,7 +16035,7 @@ cerpas
 cerquillos
 cerquitas
 cerras
-cerracatin
+cerracatines
 cerradas
 cerraderas
 cerraderos
@@ -16125,7 +16125,7 @@ cervigudos
 cerviguillos
 cervinos
 cervix
-cerviz
+cervices
 cervunos
 cesaciones
 cesamientos
@@ -16206,7 +16206,7 @@ chacas
 chacabucanos
 chacales
 chacaleles
-chacalin
+chacalines
 chacanas
 chacaras
 chacareras
@@ -16263,9 +16263,9 @@ chafallos
 chafallones
 chafalmejas
 chafalonias
-chafandin
+chafandines
 chafarderos
-chafariz
+chafarices
 chafarotas
 chafarotadas
 chafarotazos
@@ -16350,7 +16350,7 @@ chamarilerias
 chamarileros
 chamarilleros
 chamarillones
-chamariz
+chamarices
 chamarones
 chamarras
 chamarretas
@@ -16460,7 +16460,7 @@ chanflones
 changas
 changador
 changallos
-changarin
+changarines
 changarras
 changarros
 changles
@@ -16527,7 +16527,7 @@ chapetones
 chapetonadas
 chapias
 chapicos
-chapin
+chapines
 chapinadas
 chapinazos
 chapinerias
@@ -16554,7 +16554,7 @@ chapoteos
 chapucerias
 chapuceros
 chapul
-chapulin
+chapulines
 chapupas
 chapurrados
 chapurreos
@@ -16729,7 +16729,7 @@ chejes
 chelas
 cheles
 chelies
-chelin
+chelines
 chelistas
 chelos
 chelosos
@@ -16849,7 +16849,7 @@ chicoras
 chicorias
 chicoriaceos
 chicorros
-chicorrotin
+chicorrotines
 chicotazos
 chicotes
 chicozapotes
@@ -16874,7 +16874,7 @@ chigreros
 chiguas
 chigüies
 chigüil
-chigüin
+chigüines
 chigüires
 chihuahuas
 chihuahueños
@@ -16929,7 +16929,7 @@ chilpayates
 chilpes
 chilposos
 chiltepes
-chiltipiquin
+chiltipiquines
 chiltotas
 chiltotes
 chiltucas
@@ -16958,7 +16958,7 @@ chimpinilleras
 chimues
 chimuchinas
 chimuelos
-chin
+chines
 chinas
 chinacas
 chinacates
@@ -16992,7 +16992,7 @@ chincheros
 chinchetas
 chinchillas
 chinchimen
-chinchin
+chinchines
 chinchingas
 chinchintor
 chinchones
@@ -17001,7 +17001,7 @@ chinchorrerias
 chinchorreros
 chinchorros
 chinchosos
-chinchulin
+chinchulines
 chinchuntes
 chinchurrias
 chincoles
@@ -17030,7 +17030,7 @@ chingues
 chingueres
 chingueros
 chinguiritos
-chinin
+chinines
 chinitas
 chinitos
 chinos
@@ -17048,7 +17048,7 @@ chipen
 chipichapes
 chipichipies
 chipiles
-chipilin
+chipilines
 chipilos
 chipirones
 chipojos
@@ -17067,17 +17067,17 @@ chiquichaques
 chiquigüites
 chiquilicuatres
 chiquilicuatros
-chiquilin
+chiquilines
 chiquilladas
 chiquillerias
 chiquillos
 chiquimultecos
-chiquirin
+chiquirines
 chiquirriticos
-chiquirritin
+chiquirritines
 chiquitanos
 chiquiticos
-chiquitin
+chiquitines
 chiquitos
 chiquizuelas
 chiras
@@ -17120,7 +17120,7 @@ chiriperos
 chiris
 chirivejes
 chirivias
-chirivin
+chirivines
 chiriviscales
 chiriviscos
 chirizos
@@ -17248,11 +17248,11 @@ chocarrerias
 chocarreros
 chochas
 chochadas
-chochaperdiz
+chochaperdices
 chocheras
 chocheros
 chocheces
-chochin
+chochines
 chochos
 chochocoles
 choclillos
@@ -17270,7 +17270,7 @@ chocolateados
 chocolateras
 chocolaterias
 chocolateros
-chocolatin
+chocolatines
 chocolatinas
 chocolias
 chocolos
@@ -17284,7 +17284,7 @@ choferesas
 chofetas
 chofiros
 chofistas
-chojin
+chojines
 cholas
 cholcos
 cholencos
@@ -17443,7 +17443,7 @@ chuicos
 chuj
 chulas
 chuladas
-chulampin
+chulampines
 chulanganos
 chulapos
 chules
@@ -17514,10 +17514,10 @@ chupetas
 chupetes
 chupeteos
 chupetillas
-chupetin
+chupetines
 chupetones
 chupilcas
-chupin
+chupines
 chupinazos
 chupitos
 chuplus
@@ -17554,7 +17554,7 @@ churrientos
 churriguerescos
 churriguerismos
 churrigueristas
-churrin
+churrines
 churrinches
 churriosos
 churritos
@@ -17644,7 +17644,7 @@ cicahuites
 cicaterias
 cicateros
 cicatriciales
-cicatriz
+cicatrices
 cicatrizaciones
 cicatrizales
 cicatrizantes
@@ -17896,7 +17896,7 @@ cincuenten
 cincuentenas
 cincuentenarios
 cincuentenos
-cincuentin
+cincuentines
 cincuentones
 cincuesmas
 cines
@@ -17969,7 +17969,7 @@ cinturitas
 cinturones
 ciñuelas
 cinzayas
-cinzolin
+cinzolines
 cios
 ciparisos
 cipayos
@@ -18194,7 +18194,7 @@ clarificativos
 clarificos
 clarillas
 clarimentos
-clarin
+clarines
 clarinadas
 clarinados
 clarinazos
@@ -18248,7 +18248,7 @@ clavales
 clavarios
 clavazones
 claves
-clavecin
+clavecines
 clavecinistas
 claveles
 clavelitos
@@ -18323,7 +18323,7 @@ climatologicos
 climatologos
 climax
 climogramas
-clin
+clines
 clinejas
 clineros
 clinicas
@@ -18633,14 +18633,14 @@ codificador
 codigos
 codilleras
 codillos
-codin
+codines
 codinas
 codirecciones
 codirector
 codos
 codones
 codoñates
-codorniz
+codornices
 codornos
 codorros
 codujos
@@ -18668,7 +18668,7 @@ cofactor
 cofan
 cofias
 cofiador
-cofin
+cofines
 cofinanciaciones
 cofradas
 cofrades
@@ -18786,7 +18786,7 @@ cojedeños
 cojeras
 cojijos
 cojijosos
-cojin
+cojines
 cojinetes
 cojinillos
 cojinobas
@@ -18942,7 +18942,7 @@ colimbos
 colimeños
 colimenses
 colimotes
-colin
+colines
 colinas
 colinabos
 colindancias
@@ -18973,7 +18973,7 @@ collados
 collages
 collalbas
 collarejas
-collarin
+collarines
 collarinos
 collazos
 collejas
@@ -19027,7 +19027,7 @@ colombos
 colombofilias
 colombofilos
 colombroños
-colomin
+colomines
 colones
 colones
 colonatos
@@ -19065,7 +19065,7 @@ coloridor
 colorimetrias
 colorimetricos
 colorimetros
-colorin
+colorines
 colorinches
 colorismos
 coloristas
@@ -19269,7 +19269,7 @@ comodatarios
 comodatos
 comodidades
 comodidosos
-comodin
+comodines
 comodinos
 comodistas
 comodos
@@ -19834,7 +19834,7 @@ confidenciales
 confidencialidades
 confidentes
 configuraciones
-confin
+confines
 confinaciones
 confinados
 confinamientos
@@ -20040,7 +20040,7 @@ conmutaciones
 conmutador
 conmutatividades
 conmutativos
-conmutatriz
+conmutatrices
 connacionales
 connaturales
 connaturalizaciones
@@ -20439,13 +20439,13 @@ contradiques
 contradrizas
 contradurmientes
 contraejemplos
-contraelectromotriz
+contraelectromotrices
 contraemboscadas
 contraembozos
 contraenvites
 contraescarpas
 contraescotas
-contraescotin
+contraescotines
 contraescrituras
 contraespionajes
 contraestay
@@ -20515,7 +20515,7 @@ contraofensivas
 contraofertas
 contraorden
 contrapalados
-contrapalanquin
+contrapalanquines
 contraparientes
 contrapartidas
 contrapas
@@ -20794,7 +20794,7 @@ copernicanos
 coperos
 copetas
 copetes
-copetin
+copetines
 copetineras
 copetones
 copetonas
@@ -20812,7 +20812,7 @@ copilaciones
 copilador
 copillas
 copilotos
-copin
+copines
 copinas
 copinos
 copinoles
@@ -20918,7 +20918,7 @@ corbachos
 corbatas
 corbaterias
 corbateros
-corbatin
+corbatines
 corbatos
 corbes
 corbetas
@@ -20928,7 +20928,7 @@ corcas
 corceles
 corcescas
 corchas
-corchapin
+corchapines
 corches
 corcheas
 corcheras
@@ -21082,7 +21082,7 @@ cornetas
 cornetazos
 cornetes
 cornetillas
-cornetin
+cornetines
 cornetos
 cornezuelos
 corniabiertos
@@ -21557,7 +21557,7 @@ cotilleros
 cotillos
 cotillones
 cotilos
-cotin
+cotines
 cotingas
 cotizas
 cotizables
@@ -21737,7 +21737,7 @@ crespas
 cresperas
 crespillas
 crespillos
-crespin
+crespines
 crespinas
 crespos
 crespones
@@ -21797,7 +21797,7 @@ criminologicos
 criminologos
 criminosos
 crimnos
-crin
+crines
 crinados
 crinejas
 crineras
@@ -22046,7 +22046,7 @@ cuadrantales
 cuadrantes
 cuadranuras
 cuadraticos
-cuadratin
+cuadratines
 cuadraturas
 cuadricas
 cuadricenales
@@ -22220,7 +22220,7 @@ cuatrillones
 cuatrimestrales
 cuatrimestres
 cuatrimotor
-cuatrin
+cuatrines
 cuatrincas
 cuatripartitos
 cuatrisilabos
@@ -22468,7 +22468,7 @@ cuilios
 cuilios
 cuillos
 cuilos
-cuin
+cuines
 cuinas
 cuinos
 cuis
@@ -22482,7 +22482,7 @@ cujas
 cujaras
 cujes
 cujies
-cujin
+cujines
 cujinicuil
 cujisales
 cujones
@@ -22493,7 +22493,7 @@ culantros
 culas
 culatas
 culatazos
-culatin
+culatines
 culcusidos
 cules
 culebras
@@ -22981,7 +22981,7 @@ danzas
 danzados
 danzador
 danzantes
-danzarin
+danzarines
 danzones
 daquies
 dardabasies
@@ -23412,7 +23412,7 @@ deleznables
 deleznadizos
 deleznamientos
 delficos
-delfin
+delfines
 delfinas
 delfinarios
 delgas
@@ -24529,7 +24529,7 @@ desfiguraciones
 desfiguramientos
 desfiguros
 desfiladeros
-desfiladiz
+desfiladices
 desfiles
 desfiuciados
 desfiuzas
@@ -24726,7 +24726,7 @@ deslindador
 deslindamientos
 deslindes
 deslios
-desliz
+deslices
 deslizables
 deslizaderos
 deslizadizos
@@ -25205,7 +25205,7 @@ destiladeras
 destilador
 destilatorios
 destilerias
-destin
+destines
 destinaciones
 destinados
 destinatarios
@@ -25443,7 +25443,7 @@ diablitos
 diablos
 diabluras
 diabolicos
-diabolin
+diabolines
 diabolismos
 diabolos
 diacatolicones
@@ -25805,7 +25805,7 @@ dimisorias
 dimitentes
 dimorfismos
 dimorfos
-din
+dines
 DIN
 dinas
 dinachos
@@ -25916,7 +25916,7 @@ directos
 director
 directorales
 directorios
-directriz
+directrices
 dirham
 dirhem
 diriambinos
@@ -26420,7 +26420,7 @@ dominador
 dominancias
 dominantes
 dominativos
-dominatriz
+dominatrices
 domines
 domingadas
 domingos
@@ -26664,7 +26664,7 @@ ductilidades
 ductivos
 ductos
 ductor
-ductriz
+ductrices
 dudas
 dudables
 dudanzas
@@ -27131,7 +27131,7 @@ electricidades
 electricistas
 electricos
 electrificaciones
-electriz
+electrices
 electrizables
 electrizaciones
 electrizador
@@ -27182,7 +27182,7 @@ electrometrias
 electrometricos
 electrometros
 electromotor
-electromotriz
+electromotrices
 electrones
 electronegativos
 electronicas
@@ -27647,7 +27647,7 @@ empeoramientos
 empequeñecimientos
 emperador
 emperadoras
-emperatriz
+emperatrices
 emperchados
 emperos
 emperradas
@@ -28087,7 +28087,7 @@ encubridizos
 encubridor
 encubrimientos
 encuentros
-encueratriz
+encueratrices
 encueros
 encuestas
 encuestados
@@ -29522,7 +29522,7 @@ escarificador
 escariosos
 escarlador
 escarlatas
-escarlatin
+escarlatines
 escarlatinas
 escarlatinosos
 escarmenador
@@ -29544,7 +29544,7 @@ escarpelos
 escarpias
 escarpiador
 escarpidor
-escarpin
+escarpines
 escarpiones
 escarraman
 escarramanados
@@ -29730,7 +29730,7 @@ escorbuticos
 escorbutos
 escorchados
 escorchador
-escorchapin
+escorchapines
 escorcioneras
 escordios
 escorias
@@ -29761,7 +29761,7 @@ escoteras
 escoteros
 escotillas
 escotillones
-escotin
+escotines
 escotismos
 escotistas
 escotos
@@ -29925,7 +29925,7 @@ esferometros
 esfigmografos
 esfigmogramas
 esfigmometros
-esfiladiz
+esfiladices
 esfinges
 esfingidos
 esforrocinos
@@ -29948,7 +29948,7 @@ esguazos
 esgucios
 esguilas
 esguilos
-esguin
+esguines
 esguinces
 esguizaros
 eslabones
@@ -29968,7 +29968,7 @@ eslovenos
 esmaltados
 esmaltador
 esmaltes
-esmaltin
+esmaltines
 esmaltinas
 esmecticos
 esmedregales
@@ -29990,7 +29990,7 @@ esmirriados
 esmog
 esmolas
 esmoladeras
-esmoquin
+esmoquines
 esmorecidos
 esnifadas
 esnob
@@ -30014,7 +30014,7 @@ espacios
 espaciosidades
 espaciosos
 espadas
-espadachin
+espadachines
 espadadas
 espadados
 espadador
@@ -30028,7 +30028,7 @@ espadices
 espadillas
 espadillados
 espadillazos
-espadin
+espadines
 espadistas
 espadones
 espadrapos
@@ -30256,7 +30256,7 @@ espigosos
 espigueos
 espiguillas
 espilochos
-espin
+espines
 espinas
 espinablos
 espinacas
@@ -30332,7 +30332,7 @@ esplenios
 esplenitis
 esplenomegalias
 espliegos
-esplin
+esplines
 espliques
 espoladas
 espolazos
@@ -30340,7 +30340,7 @@ espoleaduras
 espoletas
 espoliaciones
 espoliador
-espolin
+espolines
 espolios
 espoliques
 espolistas
@@ -30714,7 +30714,7 @@ esterilidades
 esterilizaciones
 esterilizador
 esterillas
-esterlin
+esterlines
 esterlinas
 esternocleidomastoideos
 esternones
@@ -30796,7 +30796,7 @@ estiptiqueces
 estipulas
 estipulaciones
 estiques
-estiquirin
+estiquirines
 estiras
 estiracaceos
 estiradas
@@ -30853,7 +30853,7 @@ estopadas
 estopeños
 estoperoles
 estopillas
-estopin
+estopines
 estopones
 estopor
 estoposos
@@ -30905,7 +30905,7 @@ estrapadas
 estrapalucios
 estraperlistas
 estraperlos
-estrapontin
+estrapontines
 estratagemas
 estrategas
 estrategias
@@ -31361,7 +31361,7 @@ excitaciones
 excitador
 excitantes
 excitativos
-excitatriz
+excitatrices
 exclamaciones
 exclamativos
 exclamatorios
@@ -31897,7 +31897,7 @@ fajazos
 fajeados
 fajeros
 fajillas
-fajin
+fajines
 fajinas
 fajinadas
 fajos
@@ -31940,7 +31940,7 @@ falconiformes
 faldas
 faldamentas
 faldamentos
-faldellin
+faldellines
 faldeos
 falderos
 faldetas
@@ -32087,7 +32087,7 @@ fantochadas
 fantoches
 fanzines
 faquies
-faquin
+faquines
 faras
 farabusteador
 farachos
@@ -32342,7 +32342,7 @@ fehacientes
 feismos
 fejes
 felaciones
-feladiz
+feladices
 feldespaticos
 feldespatos
 felibres
@@ -32355,7 +32355,7 @@ feligres
 feligresias
 felinos
 felipes
-feliz
+felices
 felones
 felonias
 felpas
@@ -32432,7 +32432,7 @@ feridas
 feridades
 feridor
 ferinos
-ferlin
+ferlines
 fermatas
 fermentables
 fermentaciones
@@ -32508,7 +32508,7 @@ ferventisimos
 fervidos
 fervientes
 fervor
-fervorin
+fervorines
 fervorosos
 fesceninos
 fesorias
@@ -32517,7 +32517,7 @@ festejador
 festejos
 festeros
 festicholas
-festin
+festines
 festinaciones
 festivales
 festivaleros
@@ -32649,7 +32649,7 @@ figureos
 figurerias
 figureros
 figurillas
-figurin
+figurines
 figurinistas
 figuritas
 figurones
@@ -32671,7 +32671,7 @@ filas
 filacterias
 filadelfios
 filadelfos
-filadiz
+filadices
 filados
 filamentos
 filamentosos
@@ -32725,19 +32725,19 @@ filiformes
 filigranas
 filigranistas
 fililies
-filin
-filin
+filines
+filines
 filipendulas
 filipenses
 filipicas
-filipichin
+filipichines
 filipinas
 filipinismos
 filipinistas
 filipinos
 filis
 filisteos
-filistrin
+filistrines
 fillos
 filloas
 fillogas
@@ -32796,7 +32796,7 @@ filvan
 fimbrias
 fimos
 fimosis
-fin
+fines
 finables
 finados
 finales
@@ -33008,7 +33008,7 @@ flautados
 flauteados
 flauteros
 flautillos
-flautin
+flautines
 flautistas
 flautos
 flavos
@@ -33101,7 +33101,7 @@ florecientes
 florecimientos
 Florencias
 florenses
-florentin
+florentines
 florentinos
 florentisimos
 floreos
@@ -33126,7 +33126,7 @@ floridos
 floriferos
 florigeros
 florilegios
-florin
+florines
 floripones
 floripondios
 floristas
@@ -33195,7 +33195,7 @@ fogajes
 fogaradas
 fogaratas
 fogaril
-fogarin
+fogarines
 fogatas
 fogones
 fogonaduras
@@ -33237,7 +33237,7 @@ follajerias
 folleros
 folletas
 folleteros
-folletin
+folletines
 folletinescos
 folletinistas
 folletistas
@@ -33386,7 +33386,7 @@ formantes
 formateos
 formativos
 formatos
-formatriz
+formatrices
 formenteranos
 formeros
 formiatos
@@ -33443,7 +33443,7 @@ fortes
 fortepianos
 fortificaciones
 fortificador
-fortin
+fortines
 fortisimos
 fortitud
 fortuitos
@@ -33511,7 +33511,7 @@ fotocomponedoras
 fotocomposiciones
 fotoconductividades
 fotoconductor
-fotoconductriz
+fotoconductrices
 fotocopias
 fotocopiador
 fotocopiadoras
@@ -33612,7 +33612,7 @@ fragrantes
 fraguas
 fraguados
 fraguador
-fragüin
+fragüines
 fraguras
 frailadas
 frailes
@@ -33661,7 +33661,7 @@ francofobias
 francofobos
 francofonias
 francofonos
-francolin
+francolines
 francolinos
 francomacorisanos
 francotes
@@ -33679,7 +33679,7 @@ frangotes
 franhuesos
 franjas
 franjones
-franklin
+franklines
 franqueables
 franqueados
 franqueamientos
@@ -33740,7 +33740,7 @@ fregajos
 fregamientos
 fregatas
 fregatinas
-fregatriz
+fregatrices
 fregones
 fregonas
 fregonil
@@ -33793,7 +33793,7 @@ frescachones
 frescales
 frescales
 frescos
-frescolin
+frescolines
 frescor
 frescotes
 frescuras
@@ -33887,7 +33887,7 @@ friuras
 frivolidades
 frivolizaciones
 frivolos
-friz
+frices
 frogas
 froncias
 frondas
@@ -34041,7 +34041,7 @@ fulminaciones
 fulminador
 fulminantes
 fulminatos
-fulminatriz
+fulminatrices
 fulmineos
 fulminicos
 fulminosos
@@ -34195,7 +34195,7 @@ fustos
 fustumbres
 futboles
 futboleros
-futbolin
+futbolines
 futbolistas
 futbolisticos
 futbolitos
@@ -34267,7 +34267,7 @@ gachones
 gachonadas
 gachonerias
 gachumbos
-gachupin
+gachupines
 gacillas
 gadidos
 gaditanos
@@ -34374,7 +34374,7 @@ galeras
 galeradas
 galereros
 galerias
-galerin
+galerines
 galeristas
 galeristicos
 galeritas
@@ -34427,7 +34427,7 @@ gallardetones
 gallardias
 gallardos
 gallaretas
-gallarin
+gallarines
 gallaros
 gallarofas
 gallarones
@@ -34499,7 +34499,7 @@ galopes
 galopeados
 galopeos
 galopillos
-galopin
+galopines
 galopinadas
 galopos
 galorromances
@@ -34641,7 +34641,7 @@ gangueros
 ganguil
 gañidos
 gañil
-gañin
+gañines
 gañivetes
 ganoideos
 gañones
@@ -34709,7 +34709,7 @@ garberos
 garbias
 garbillador
 garbillos
-garbin
+garbines
 garbinos
 garbos
 garbolies
@@ -34847,7 +34847,7 @@ garrotes
 garroteras
 garroteros
 garrotillos
-garrotin
+garrotines
 garrubias
 garruchas
 garruchos
@@ -34863,7 +34863,7 @@ garujos
 garullas
 garulladas
 garullos
-garvin
+garvines
 garzas
 garzos
 garzones
@@ -35072,7 +35072,7 @@ generalizables
 generalizaciones
 generalizador
 generativos
-generatriz
+generatrices
 genericos
 generos
 generosias
@@ -35309,7 +35309,7 @@ gimnospermos
 gimnotos
 gimoteador
 gimoteos
-gin
+gines
 ginandras
 gindamas
 gineas
@@ -35539,7 +35539,7 @@ golfas
 golfan
 golfantes
 golferias
-golfin
+golfines
 golfistas
 golfisticos
 golfos
@@ -35618,7 +35618,7 @@ gonococicos
 gonococos
 gonorreas
 gorbiones
-gorbiz
+gorbices
 gorcienses
 gordas
 gordales
@@ -35668,7 +35668,7 @@ gorreros
 gorretadas
 gorriatos
 gorrillas
-gorrin
+gorrines
 gorrinas
 gorrinadas
 gorrineras
@@ -35821,7 +35821,7 @@ granadinos
 granados
 granallas
 granates
-granatin
+granatines
 granazones
 grancanarios
 grances
@@ -35921,7 +35921,7 @@ gratificaciones
 gratificador
 gratificantes
 gratil
-gratin
+gratines
 gratinados
 gratinador
 gratiñan
@@ -36155,8 +36155,8 @@ guaches
 guachies
 guachiman
 guachinangos
-guachipelin
-guachipilin
+guachipelines
+guachipilines
 guachos
 guacias
 guacos
@@ -36282,7 +36282,7 @@ guangoches
 guangochos
 guangololas
 guañil
-guanin
+guanines
 guaninas
 guaniquies
 guanos
@@ -36419,7 +36419,7 @@ guardian
 guardianias
 guardillas
 guardillones
-guardin
+guardines
 guardones
 guardosos
 guareaos
@@ -36437,7 +36437,7 @@ guaridas
 guarideros
 guariman
 guarimientos
-guarin
+guarines
 guaripolas
 guariqueños
 guarisapos
@@ -36613,7 +36613,7 @@ guillas
 guilladuras
 guillames
 guillatun
-güillin
+güillines
 guillomos
 guillotes
 guillotinas
@@ -36622,7 +36622,7 @@ güilotas
 güimbas
 guimbaletes
 guimbardas
-güin
+güines
 guiñadas
 guiñador
 guiñaduras
@@ -36828,16 +36828,16 @@ habituaciones
 habituales
 habitualidades
 habitud
-habiz
+habices
 hablas
 habladas
 habladeras
 hablados
 hablador
 habladurias
-hablanchin
+hablanchines
 hablantes
-hablantin
+hablantines
 hablantinas
 hablantinosos
 hablillas
@@ -36888,7 +36888,7 @@ hados
 hadrones
 hadrubas
 hadrubados
-hafiz
+hafices
 hafnios
 hagiografias
 hagiograficos
@@ -37455,7 +37455,7 @@ herreruelos
 herretes
 herrezuelos
 herriales
-herrin
+herrines
 herrizas
 herrojos
 herrones
@@ -37779,7 +37779,7 @@ himenopteros
 himnarios
 himnos
 himnodias
-hin
+hines
 hincaduras
 hincapies
 hinchas
@@ -38043,7 +38043,7 @@ hitlerianos
 hitlerismos
 hitos
 hitones
-hoatzin
+hoatzines
 hobachos
 hobachones
 hobachonerias
@@ -38111,7 +38111,7 @@ hollecas
 hollejas
 hollejos
 hollejudos
-hollin
+hollines
 hollinientos
 holmios
 holocaustos
@@ -38545,7 +38545,7 @@ huidor
 huifas
 huilenses
 huilliches
-huillin
+huillines
 huilos
 huilotas
 huiltes
@@ -39224,7 +39224,7 @@ imputados
 imputador
 imputrescibles
 imputribles
-in
+ines
 inabarcables
 inabordables
 inacabables
@@ -39385,7 +39385,7 @@ incivilizados
 inclasificables
 inclaustraciones
 inclemencias
-inclin
+inclines
 inclinaciones
 inclinados
 inclinador
@@ -39916,7 +39916,7 @@ infecundidades
 infecundos
 infelices
 infelicidades
-infeliz
+infelices
 inferencias
 inferior
 inferioridades
@@ -40450,7 +40450,7 @@ instituidor
 Institutas
 institutos
 institutor
-institutriz
+institutrices
 instridentes
 instrucciones
 instructivos
@@ -40626,7 +40626,7 @@ intergalacticos
 intergeneracionales
 intergubernamentales
 interianos
-interin
+interines
 interinas
 interinarios
 interinatos
@@ -41218,7 +41218,7 @@ jabas
 jabados
 jabalcones
 jabalies
-jabalin
+jabalines
 jabalinas
 jabalineros
 jabalones
@@ -41425,7 +41425,7 @@ jaquinicuil
 jaras
 jarabes
 jaracallas
-jaraiz
+jaraices
 jarales
 jaramagos
 jarameños
@@ -41445,7 +41445,7 @@ jarcierias
 jarcieros
 jardas
 jardazos
-jardin
+jardines
 jardineras
 jardinerias
 jardineros
@@ -41510,7 +41510,7 @@ jayan
 jayanadas
 jazaran
 jazarinos
-jazmin
+jazmines
 jazmineos
 jazmineros
 jazz
@@ -41533,7 +41533,7 @@ jeitos
 jejen
 jelengues
 jelepates
-jeliz
+jelices
 jemales
 jemes
 jemesias
@@ -41733,11 +41733,11 @@ joglerias
 jojobas
 jojotos
 jolgorios
-jolin
+jolines
 jolines
 jolinos
 jolitos
-jollin
+jollines
 joloanos
 jolongos
 jolotes
@@ -41758,7 +41758,7 @@ jordanos
 jorfes
 jorgas
 jorges
-jorguin
+jorguines
 jorguinerias
 jornadas
 jornales
@@ -41890,7 +41890,7 @@ juicieros
 juicios
 juiciosos
 juigalpinos
-juilin
+juilines
 jujeños
 jujeos
 julandrones
@@ -42058,7 +42058,7 @@ kavakavas
 kayak
 kazakos
 kebab
-kelvin
+kelvines
 kendos
 kenianos
 keniatas
@@ -42117,7 +42117,7 @@ koines
 kopek
 krausismos
 krausistas
-kremlin
+kremlines
 kremlinologias
 kremlinologos
 kril
@@ -42175,7 +42175,7 @@ labradoril
 labradoritas
 labranderas
 labrantes
-labrantin
+labrantines
 labrantios
 labranzas
 labreros
@@ -42305,7 +42305,7 @@ lagos
 lagomorfos
 lagopos
 lagostas
-lagostin
+lagostines
 lagoterias
 lagoteros
 lagrimas
@@ -42359,7 +42359,7 @@ lambisconerias
 lambistones
 lambones
 lambonerias
-lambrequin
+lambrequines
 lambrijas
 lambrones
 lambrucios
@@ -42384,7 +42384,7 @@ lametazos
 lametones
 lamias
 lamidos
-lamin
+lamines
 laminas
 laminaciones
 laminados
@@ -42406,7 +42406,7 @@ lamparas
 lamparerias
 lampareros
 lamparillas
-lamparin
+lamparines
 lamparistas
 lamparones
 lamparosos
@@ -42474,7 +42474,7 @@ langarutos
 langor
 langostas
 langosteros
-langostin
+langostines
 langostinos
 langostones
 languaricos
@@ -42543,7 +42543,7 @@ lapidosos
 lapillas
 lapislazulies
 lapitas
-lapiz
+lapices
 lapos
 lapones
 lapsos
@@ -42646,7 +42646,7 @@ latigueos
 latigueras
 latigueros
 latiguillos
-latin
+latines
 latinados
 latinajos
 latinazgos
@@ -42812,7 +42812,7 @@ lechetreznas
 lechigas
 lechigadas
 lechigados
-lechin
+lechines
 lechinas
 lechinos
 lechos
@@ -42943,7 +42943,7 @@ lemnicolas
 lemnios
 lemniscatas
 lemniscos
-lemosin
+lemosines
 lempiras
 lempireños
 lempirenses
@@ -43145,7 +43145,7 @@ leviratos
 levitas
 levitaciones
 leviticos
-levitin
+levitines
 levitones
 levogiros
 levosas
@@ -43418,7 +43418,7 @@ limoneras
 limoneros
 limonitas
 limosidades
-limosin
+limosines
 limosnas
 limosnaderos
 limosnador
@@ -43590,7 +43590,7 @@ listeados
 listeles
 listeros
 listezas
-listin
+listines
 listos
 listocos
 listones
@@ -43721,7 +43721,7 @@ llaullaues
 llaves
 llaverizos
 llaveros
-llavin
+llavines
 lles
 llecos
 llegas
@@ -43837,7 +43837,7 @@ locos
 locomociones
 locomotor
 locomotoras
-locomotriz
+locomotrices
 locomovibles
 locomovil
 locrios
@@ -43914,7 +43914,7 @@ lombardos
 lombos
 lombricientos
 lombrigueras
-lombriz
+lombrices
 lomeras
 lometas
 lomienhiestos
@@ -44002,7 +44002,7 @@ loteros
 lotificaciones
 lotificadoras
 lotiformes
-lotin
+lotines
 lotizaciones
 lotos
 lotofagos
@@ -44203,7 +44203,7 @@ lustramientos
 lustramuebles
 lustres
 lustricos
-lustrin
+lustrines
 lustrinas
 lustros
 lustrosos
@@ -44234,7 +44234,7 @@ macabies
 macabros
 macacas
 macacadas
-macachin
+macachines
 macacos
 macacoas
 macadam
@@ -44319,7 +44319,7 @@ machicas
 machiegas
 machiguas
 machigües
-machin
+machines
 machinas
 machincuepas
 machios
@@ -44443,7 +44443,7 @@ madrilleras
 madrinas
 madrinazgos
 madrineros
-madriz
+madrices
 madronas
 madroñales
 madroncillos
@@ -44481,7 +44481,7 @@ maestranzas
 maestrazgos
 maestres
 maestreescuelas
-maestrepasquin
+maestrepasquines
 maestresas
 maestresalas
 maestrescolias
@@ -44493,7 +44493,7 @@ mafias
 mafiosos
 mafufos
 magacen
-magacin
+magacines
 magallas
 magallanicos
 magañas
@@ -44505,7 +44505,7 @@ magantos
 maganzones
 magarzas
 magarzuelas
-magazin
+magazines
 magdalenas
 magdalenenses
 magdalenicos
@@ -44515,7 +44515,7 @@ magentas
 magias
 magicas
 magicos
-magin
+magines
 magisteriales
 magisterios
 magistrados
@@ -44547,7 +44547,7 @@ magnetofonicos
 magnetofonos
 magnetohidrodinamicas
 magnetometros
-magnetomotriz
+magnetomotrices
 magnetoopticas
 magnetopausas
 magnetorresistencias
@@ -44613,7 +44613,7 @@ mahones
 mahonas
 mahones
 mahonesas
-mahozmedin
+mahozmedines
 maiceados
 maicenas
 maiceras
@@ -44633,7 +44633,7 @@ maitinadas
 maitinantes
 maitines
 maîtres
-maiz
+maices
 maizales
 majas
 majas
@@ -44711,7 +44711,7 @@ malambos
 malandantes
 malandanzas
 malandras
-malandrin
+malandrines
 malandros
 malangas
 malangay
@@ -44786,14 +44786,14 @@ malentradas
 malentretenidos
 maleolos
 maleros
-malespin
+malespines
 malespinos
 maletas
 maleteras
 maleteros
 maletias
 maletillas
-maletin
+maletines
 maletones
 malevajes
 malevos
@@ -44837,10 +44837,10 @@ mallequinos
 malleros
 malletes
 malletos
-mallin
+mallines
 mallos
 mallorcas
-mallorquin
+mallorquines
 malmandados
 malmaridadas
 malmarrientos
@@ -44876,7 +44876,7 @@ malquerientes
 malquistos
 malrotador
 malsanos
-malsin
+malsines
 malsindades
 malsinerias
 malsonancias
@@ -44917,7 +44917,7 @@ malvinenses
 malvineros
 malvis
 malvivientes
-malviz
+malvices
 malvones
 mam
 mamas
@@ -45056,7 +45056,7 @@ mandamas
 mandamientos
 mandangas
 mandantes
-mandarin
+mandarines
 mandarinas
 mandarinismos
 mandarrias
@@ -45233,7 +45233,7 @@ manivacios
 manivelas
 manizaleños
 manjaretes
-manjelin
+manjelines
 manjorradas
 manjuas
 manjuaries
@@ -45371,7 +45371,7 @@ maomas
 maories
 mapas
 mapaches
-mapachin
+mapachines
 mapamundies
 mapanares
 mapeos
@@ -45702,7 +45702,7 @@ marrocas
 marrones
 marronazos
 marroquies
-marroquin
+marroquines
 marroquinerias
 marroquineros
 marrubiales
@@ -45737,7 +45737,7 @@ martillejos
 martilleos
 martilleros
 martillos
-martin
+martines
 martinas
 martinencos
 martinetas
@@ -45846,7 +45846,7 @@ masticis
 mastienos
 mastigador
 mastil
-mastin
+mastines
 mastiques
 mastiques
 mastitis
@@ -45878,7 +45878,7 @@ matacallos
 matacan
 matacandelas
 matacandil
-matachin
+matachines
 matacias
 mataciones
 matacos
@@ -45960,7 +45960,7 @@ matinales
 matines
 matines
 matinos
-matiz
+matices
 matizaciones
 matizones
 matos
@@ -45997,7 +45997,7 @@ matrimonialistas
 matrimonios
 matrimoños
 matritenses
-matriz
+matrices
 matrones
 matronales
 matronazas
@@ -46205,7 +46205,7 @@ mediaticos
 mediatizaciones
 mediatos
 mediator
-mediatriz
+mediatrices
 medibles
 medicas
 medicables
@@ -46541,7 +46541,7 @@ menoretes
 menorias
 menoridades
 menoristas
-menorquin
+menorquines
 menorragias
 menos
 menoscabador
@@ -46672,7 +46672,7 @@ merendonas
 merengadas
 merengues
 meretricios
-meretriz
+meretrices
 merey
 mergos
 mergones
@@ -46695,7 +46695,7 @@ meritoriajes
 meritorios
 merlas
 merletas
-merlin
+merlines
 merlos
 merlones
 merluzas
@@ -46977,7 +46977,7 @@ micenicos
 micetologias
 michas
 miches
-michelin
+michelines
 michinas
 michinos
 michos
@@ -47339,7 +47339,7 @@ mirador
 miraduras
 miraglos
 miraguanos
-miramamolin
+miramamolines
 miramelindos
 miramientos
 mirandas
@@ -47452,7 +47452,7 @@ mitigador
 mitigativos
 mitigatorios
 mitimaes
-mitin
+mitines
 mitineros
 mitos
 mitocondrias
@@ -47492,7 +47492,7 @@ mixtiones
 mixtos
 mixturas
 mixtureros
-miz
+mices
 mizas
 mizcales
 mizcalos
@@ -47517,7 +47517,7 @@ mocanos
 mocarabes
 mocarras
 mocarros
-mocasin
+mocasines
 mocedades
 mocejones
 moceñas
@@ -47543,7 +47543,7 @@ mochuelos
 mocil
 mociones
 mocitos
-moclin
+moclines
 mocos
 mocoanos
 mocosos
@@ -47637,7 +47637,7 @@ mohedales
 moheñas
 moheños
 mohientos
-mohin
+mohines
 mohinas
 mohindades
 mohinos
@@ -47931,7 +47931,7 @@ mononas
 mononucleosis
 monoparentales
 monopastos
-monopatin
+monopatines
 monopetalos
 monoplanos
 monoplazas
@@ -48373,7 +48373,7 @@ motil
 motilidades
 motilones
 motilonas
-motin
+motines
 motivaciones
 motivador
 motivos
@@ -48401,7 +48401,7 @@ motosos
 mototaxies
 motoveleros
 motril
-motriz
+motrices
 motudos
 movedizos
 movedor
@@ -48456,7 +48456,7 @@ muchachos
 muchedumbres
 muchedumbrosos
 muchileros
-muchin
+muchines
 muchitangas
 muchos
 mucilaginosos
@@ -48485,7 +48485,7 @@ muebles
 mueblerias
 mueblistas
 muecas
-muecin
+muecines
 muelas
 muellajes
 muelles
@@ -48957,7 +48957,7 @@ nanitas
 ñaños
 nanometros
 nanotecnologias
-nanquin
+nanquines
 nansas
 nansues
 naos
@@ -49021,7 +49021,7 @@ nariguetos
 nariguillas
 narinas
 nariñenses
-nariz
+narices
 narizones
 narizonas
 narizotas
@@ -49315,7 +49315,7 @@ neogenos
 neogranadinos
 neokantianos
 neokantismos
-neolatin
+neolatines
 neolatinos
 neolector
 neoleones
@@ -49565,7 +49565,7 @@ nilo-saharianos
 nimbos
 nimiedades
 nimios
-nin
+nines
 niñas
 niñadas
 niñatos
@@ -50040,7 +50040,7 @@ nutrimentales
 nutrimentos
 nutrimientos
 nutritivos
-nutriz
+nutrices
 nutuales
 ñuzcos
 os
@@ -50281,7 +50281,7 @@ octavas
 octavarios
 octavianos
 octavillas
-octavin
+octavines
 octavos
 octavofinalistas
 octetos
@@ -50645,7 +50645,7 @@ ondulaciones
 ondulados
 ondulantes
 ondulatorios
-ondulin
+ondulines
 onerarios
 onerosos
 onfacinos
@@ -50935,7 +50935,7 @@ originarios
 orillas
 orilleros
 orillos
-orin
+orines
 orinas
 orinaderas
 orinales
@@ -51058,7 +51058,7 @@ oscilogramas
 osciloscopios
 oscitancias
 oscos
-osculatriz
+osculatrices
 osculos
 oscuranas
 oscurantismos
@@ -51478,7 +51478,7 @@ palacios
 paladas
 paladeos
 paladiales
-paladin
+paladines
 paladinos
 paladios
 paladiones
@@ -51510,7 +51510,7 @@ palanqueros
 palanquetas
 palanquetazos
 palanquillas
-palanquin
+palanquines
 palasan
 palastros
 palatabilidades
@@ -51849,10 +51849,10 @@ panfletos
 pangas
 pangales
 pangasinan
-pangelin
+pangelines
 pangermanismos
 pangermanistas
-pangolin
+pangolines
 pangues
 pangueros
 panhelenicos
@@ -52043,7 +52043,7 @@ papilionaceos
 papillas
 papillotes
 papilomas
-papin
+papines
 papiones
 papiriformes
 papiros
@@ -52082,7 +52082,7 @@ paquetudos
 paquidermias
 paquidermicos
 paquidermos
-paquin
+paquines
 paquistanies
 paras
 parabas
@@ -52362,7 +52362,7 @@ parlaembaldes
 parlamentarios
 parlamentarismos
 parlamentos
-parlanchin
+parlanchines
 parlantes
 parlatorios
 parlerias
@@ -52620,7 +52620,7 @@ pasotismos
 paspartues
 paspies
 pasqueños
-pasquin
+pasquines
 pasquinadas
 passim
 pastas
@@ -52719,7 +52719,7 @@ patascas
 patatas
 patatales
 patateros
-patatin
+patatines
 patatus
 patavinos
 patax
@@ -52762,7 +52762,7 @@ patihendidos
 patillas
 patilludos
 patimuleños
-patin
+patines
 patinas
 patinadas
 patinaderos
@@ -52952,7 +52952,7 @@ pecaminosos
 pecan
 pecantes
 pecaries
-pecatriz
+pecatrices
 pecblendas
 peces
 peceños
@@ -52977,7 +52977,7 @@ pechiches
 pechicolorados
 pechigongas
 pechil
-pechin
+pechines
 pechinas
 pechirrojos
 pechisacados
@@ -53166,7 +53166,7 @@ pejerrey
 pejesapos
 pejibayes
 pejigueras
-pejin
+pejines
 pejinos
 pekines
 pelas
@@ -53200,7 +53200,7 @@ pelamesas
 pelanas
 pelanduscas
 pelangoches
-pelantrin
+pelantrines
 pelarelas
 pelargonios
 pelarruecas
@@ -53271,7 +53271,7 @@ pelleteros
 pellicas
 pellicos
 pellijeros
-pellin
+pellines
 pelliqueros
 pellizas
 pellizcador
@@ -53322,7 +53322,7 @@ peludos
 peluqueadas
 peluquerias
 peluqueros
-peluquin
+peluquines
 pelusas
 pelusillas
 pelvies
@@ -53520,7 +53520,7 @@ pequeñeces
 pequeñezas
 pequeños
 pequeñoburgues
-pequin
+pequines
 pequines
 peras
 peradas
@@ -53585,7 +53585,7 @@ perdigoneras
 perdigueros
 perdimientos
 perdis
-perdiz
+perdices
 perdones
 perdonables
 perdonador
@@ -54247,7 +54247,7 @@ pichicatos
 pichichies
 pichichuelas
 pichihuen
-pichin
+pichines
 pichinchas
 pichinchanos
 pichincheros
@@ -54269,7 +54269,7 @@ pichuelos
 pichulas
 pichuleos
 pichuleros
-pichulin
+pichulines
 pichunchos
 picias
 Picios
@@ -54298,7 +54298,7 @@ picoteos
 picoterias
 picoteros
 picotillos
-picotin
+picotines
 picratos
 picricos
 pictografias
@@ -54313,7 +54313,7 @@ picunches
 picuy
 picuyas
 piden
-pidgin
+pidgines
 pidiches
 pidienteros
 pidolas
@@ -54323,7 +54323,7 @@ piedades
 piedemontes
 piedras
 piedreros
-piedrin
+piedrines
 piejos
 pieles
 pielagos
@@ -54372,7 +54372,7 @@ pijamas
 pijes
 pijibay
 pijijes
-pijin
+pijines
 pijos
 pijotas
 pijotes
@@ -54427,7 +54427,7 @@ piloros
 pilosos
 pilotajes
 pilotes
-pilotin
+pilotines
 pilotos
 pilpil
 pilpilen
@@ -54449,7 +54449,7 @@ pimientosos
 pimpampum
 pimpantes
 pimpidos
-pimpin
+pimpines
 pimpinas
 pimpinelas
 pimpleos
@@ -54457,7 +54457,7 @@ pimpolladas
 pimpollos
 pimpolludos
 pimpones
-pin
+pines
 pinas
 piñas
 pinabetes
@@ -54600,7 +54600,7 @@ piojosos
 piojuelos
 piolas
 piolet
-piolin
+piolines
 piones
 pioneros
 pionias
@@ -54617,7 +54617,7 @@ pipeños
 piperaceos
 piperias
 piperinas
-pipermin
+pipermines
 piperos
 pipetas
 pipies
@@ -54634,7 +54634,7 @@ pipirigallos
 pipirigañas
 pipirijainas
 pipiriles
-pipirin
+pipirines
 pipiripaos
 pipiritañas
 pipirranas
@@ -54654,7 +54654,7 @@ piquetazos
 piquetes
 piqueteros
 piquetillas
-piquillin
+piquillines
 piquillos
 piquiñas
 piquituertos
@@ -54688,8 +54688,8 @@ piretologias
 piretros
 pirexias
 pirganos
-pirgüin
-pirhuin
+pirgüines
+pirhuines
 piricos
 piriformes
 pirimidinas
@@ -54861,7 +54861,7 @@ piteros
 piteznas
 pities
 piticiegos
-piticlin
+piticlines
 piticos
 pitidos
 pitihues
@@ -54920,7 +54920,7 @@ pizarrales
 pizarreños
 pizarrerias
 pizarreros
-pizarrin
+pizarrines
 pizarristas
 pizarrones
 pizarrosos
@@ -54954,7 +54954,7 @@ placentaciones
 placentarios
 placenterias
 placenteros
-placentin
+placentines
 placentinos
 placeros
 placet
@@ -55051,7 +55051,7 @@ planudos
 plaques
 plaquetas
 plaquetarios
-plaquin
+plaquines
 plasencianos
 plasentinos
 plasmas
@@ -55233,7 +55233,7 @@ plumerios
 plumeros
 plumiferos
 plumillas
-plumin
+plumines
 plumiones
 plumistas
 plumones
@@ -55479,7 +55479,7 @@ polimitas
 polimorficos
 polimorfismos
 polimorfos
-polin
+polines
 polinesios
 polineuritis
 polinizaciones
@@ -55580,7 +55580,7 @@ polvoreamientos
 polvoreras
 polvorientos
 polvorillas
-polvorin
+polvorines
 polvoristas
 polvorizables
 polvorizaciones
@@ -55665,7 +55665,7 @@ pontificales
 pontifices
 pontificiales
 pontificios
-pontin
+pontines
 pontos
 pontocones
 pontones
@@ -55678,10 +55678,10 @@ popamientos
 popayanejos
 popes
 popeles
-popelin
+popelines
 popelinas
 popes
-poplin
+poplines
 popliteos
 popos
 popochos
@@ -55820,7 +55820,7 @@ portajes
 portales
 portaladas
 portalamparas
-portalapiz
+portalapices
 portaleñas
 portaleros
 portalibros
@@ -55998,7 +55998,7 @@ postilador
 postillas
 postillones
 postillosos
-postin
+postines
 postineros
 postinudos
 postizas
@@ -56878,7 +56878,7 @@ prohijamientos
 prohombres
 proindivisiones
 prois
-proiz
+proices
 projimos
 prolaciones
 prolapsos
@@ -57074,7 +57074,7 @@ protector
 protectorados
 protectorias
 protectorios
-protectriz
+protectrices
 protegidos
 proteicos
 proteinas
@@ -57237,7 +57237,7 @@ psicometras
 psicometrias
 psicomotor
 psicomotricidades
-psicomotriz
+psicomotrices
 psicopatas
 psicopatias
 psicopaticos
@@ -57325,7 +57325,7 @@ pudicias
 pudicicias
 pudicos
 pudientes
-pudin
+pudines
 pudingas
 pudios
 pudor
@@ -57349,7 +57349,7 @@ puentecillas
 puercas
 puercadas
 puercos
-puercoespin
+puercoespines
 puericias
 puericultor
 puericulturas
@@ -57587,7 +57587,7 @@ purificaciones
 purificaderos
 purificador
 purificatorios
-purin
+purines
 purinas
 Purisimas
 purismos
@@ -57689,7 +57689,7 @@ quebrantos
 quebrazas
 quebrazones
 queches
-quechemarin
+quechemarines
 quecholes
 quechuas
 quechuismos
@@ -57776,14 +57776,14 @@ querochas
 querosen
 querosenes
 querosenos
-querosin
+querosines
 querques
 querrequerres
 quersonesos
 querub
 querubes
 querubicos
-querubin
+querubines
 queruscos
 quervas
 quesadas
@@ -57910,7 +57910,7 @@ quimos
 quimones
 quimonos
 quimosinas
-quin
+quines
 quinas
 quinados
 quinales
@@ -58005,8 +58005,8 @@ quintil
 quintillas
 quintillizos
 quintillos
-quintin
-Quintin
+quintines
+Quintines
 quintos
 quintonil
 quintrales
@@ -58028,7 +58028,7 @@ quiquiriquies
 quiquisques
 quiragras
 quirates
-quirguiz
+quirguices
 quiridios
 quiries
 quirigallas
@@ -58096,7 +58096,7 @@ quitinas
 quitinosos
 quitos
 quitones
-quitrin
+quitrines
 quitues
 quiubras
 quivies
@@ -58333,8 +58333,8 @@ raigones
 raijos
 rail
 raimientos
-rain
-raiz
+raines
+raices
 rajas
 rajas
 rajables
@@ -58816,7 +58816,7 @@ rebotaduras
 rebotes
 reboticas
 rebotigas
-rebotin
+rebotines
 rebotones
 rebozos
 rebramos
@@ -58918,7 +58918,7 @@ recensiones
 recensor
 recentaduras
 recentales
-recentin
+recentines
 recentisimos
 recepciones
 recepcionistas
@@ -59008,7 +59008,7 @@ recocidos
 recocinas
 recoctas
 recodaderos
-recodin
+recodines
 recodos
 recogeabuelos
 recogederos
@@ -59063,7 +59063,7 @@ recopilaciones
 recopilados
 recopilador
 recopilatorios
-recoquin
+recoquines
 recorcholis
 record
 recordables
@@ -59081,7 +59081,7 @@ recortes
 recorvos
 recosidos
 recostaderos
-recotin
+recotines
 recovas
 recovecos
 recoveros
@@ -59278,7 +59278,7 @@ refacciones
 refaccionarias
 refaccionarios
 refajos
-refalin
+refalines
 refalosas
 refalsados
 refecciones
@@ -59423,7 +59423,7 @@ regalicias
 regalillos
 regalismos
 regalistas
-regaliz
+regalices
 regalizas
 regalos
 regalones
@@ -59601,7 +59601,7 @@ rejerias
 rejeros
 rejiletos
 rejillas
-rejin
+rejines
 rejiñoles
 rejos
 rejones
@@ -60388,7 +60388,7 @@ retardados
 retardador
 retardativos
 retardatorios
-retardatriz
+retardatrices
 retardos
 retartalillas
 retasas
@@ -60414,12 +60414,12 @@ reticos
 reticulas
 reticulos
 retientas
-retin
+retines
 retinas
 retinianos
 retinoles
 retintes
-retintin
+retintines
 retintos
 retiraciones
 retiradas
@@ -60555,7 +60555,7 @@ revelados
 revelador
 revelamientos
 revelanderos
-revellin
+revellines
 revendederas
 revendedor
 revendones
@@ -60690,7 +60690,7 @@ riatillos
 ribas
 ribaceras
 ribadenses
-ribadoquin
+ribadoquines
 ribagorzanos
 ribalderias
 ribaldos
@@ -60779,7 +60779,7 @@ rimbombos
 rimeles
 rimeros
 rimues
-Rin
+Rines
 riñas
 rinantos
 rincones
@@ -60904,7 +60904,7 @@ robecos
 robellones
 roberias
 robezos
-robin
+robines
 robiñanos
 robinias
 robinsones
@@ -60966,7 +60966,7 @@ rociador
 rociaduras
 rociamientos
 rocieros
-rocin
+rocines
 rocinales
 rocinantes
 rociniegos
@@ -61132,7 +61132,7 @@ romeriegos
 romerillos
 romeros
 romies
-romin
+romines
 romos
 rompecabezas
 rompecoches
@@ -61189,9 +61189,9 @@ rondanas
 rondeles
 rondeñas
 rondeños
-rondin
+rondines
 rondis
-rondiz
+rondices
 rondos
 rondones
 roñerias
@@ -61372,7 +61372,7 @@ rubidios
 rubieles
 rubieras
 rubillas
-rubin
+rubines
 rubios
 rubiolas
 rubiones
@@ -61433,7 +61433,7 @@ ruidales
 ruideros
 ruidos
 ruidosos
-ruin
+ruines
 ruinas
 ruindades
 ruineras
@@ -61756,7 +61756,7 @@ saeteros
 saeties
 saetias
 saetillas
-saetin
+saetines
 saetones
 safaries
 safenas
@@ -61767,7 +61767,7 @@ sagacidades
 sagallinos
 sagapenos
 sagarduas
-sagarmin
+sagarmines
 sagaties
 sagaz
 sagitas
@@ -61797,8 +61797,8 @@ sahumador
 sahumaduras
 sahumerios
 sahumos
-sahurin
-sain
+sahurines
+saines
 sainetes
 saineteros
 sainetescos
@@ -61813,7 +61813,7 @@ sajinos
 sajones
 Sajonias
 sajumayas
-sajurin
+sajurines
 sakes
 sales
 salas
@@ -61845,7 +61845,7 @@ salamantigas
 salamatecos
 salames
 salamies
-salamin
+salamines
 salamos
 salamundas
 salanganas
@@ -61914,7 +61914,7 @@ saliferos
 salificables
 salificaciones
 salimientos
-salin
+salines
 salinas
 salineros
 salinidades
@@ -62025,12 +62025,12 @@ saltareles
 saltarelos
 saltaren
 saltarillas
-saltarin
+saltarines
 saltarreglas
 saltarrostros
 saltaterandates
 saltatras
-saltatriz
+saltatrices
 saltatumbas
 salteador
 salteadoras
@@ -62218,7 +62218,7 @@ sandungueros
 sandwich
 saneados
 saneamientos
-sanedrin
+sanedrines
 sanfelipeños
 sanfermines
 sanfernandinos
@@ -62297,7 +62297,7 @@ sanluqueños
 sanmarinenses
 sanmarqueños
 sanmarquenses
-sanmartin
+sanmartines
 sanmartinenses
 sanmartinianos
 sanmigueladas
@@ -62510,7 +62510,7 @@ sarnosos
 sarpullidos
 sarracenicos
 sarracenos
-sarracin
+sarracines
 sarracinas
 sarracinos
 sarrajones
@@ -62550,7 +62550,7 @@ satanizaciones
 satelitales
 satelites
 saten
-satin
+satines
 satinados
 satinador
 satinadoras
@@ -62823,7 +62823,7 @@ seismos
 sejes
 seles
 selacios
-seladiz
+seladices
 selecciones
 seleccionados
 seleccionador
@@ -63172,7 +63172,7 @@ sequizos
 seras
 serados
 seraficos
-serafin
+serafines
 serafinas
 serajes
 seranos
@@ -63240,7 +63240,7 @@ serpentarios
 serpenteados
 serpenteos
 serpentigeros
-serpentin
+serpentines
 serpentinas
 serpentinos
 serpentones
@@ -63271,7 +63271,7 @@ serretas
 serretazos
 serrezuelas
 serrijones
-serrin
+serrines
 serrinos
 serrones
 serruchas
@@ -63623,9 +63623,9 @@ silletas
 silletazos
 silletes
 silleteros
-silletin
+silletines
 sillicos
-sillin
+sillines
 sillones
 silos
 silogismos
@@ -63704,7 +63704,7 @@ simulador
 simultaneidades
 simultaneos
 simun
-sin
+sines
 sinabafas
 sinagogas
 sinalagmaticos
@@ -63761,7 +63761,7 @@ sineresis
 sinergias
 sinergicos
 sinestesias
-sinfin
+sinfines
 sinfisandrios
 sinfisis
 sinfitos
@@ -63879,7 +63879,7 @@ siricotes
 sirificos
 sirifiques
 sirimiries
-sirin
+sirines
 sirindangas
 siringas
 siringes
@@ -64106,7 +64106,7 @@ sobrepalos
 sobrepaños
 sobrepartos
 sobrepeines
-sobrepelliz
+sobrepellices
 sobrepelos
 sobrepesos
 sobrepies
@@ -64662,7 +64662,7 @@ sosos
 sospechas
 sospechables
 sospechosos
-sosquin
+sosquines
 sosten
 sostenedor
 sostenibilidades
@@ -65407,7 +65407,7 @@ tas
 tabas
 tabacales
 tabacaleros
-tabachin
+tabachines
 tabacos
 tabacones
 tabacosos
@@ -65551,7 +65551,7 @@ tacticos
 tactil
 tactos
 tacuaches
-tacuacin
+tacuacines
 tacuacos
 tacuaras
 tacuarales
@@ -65621,7 +65621,7 @@ tajarastes
 tajarrazos
 tajeas
 tajeros
-tajin
+tajines
 tajos
 tajones
 tajues
@@ -65687,7 +65687,7 @@ talguatosos
 taliban
 talicones
 talidades
-talin
+talines
 talineras
 talios
 taliones
@@ -65698,7 +65698,7 @@ tallados
 tallador
 talladuras
 tallajes
-tallarin
+tallarines
 tallarolas
 talles
 talleros
@@ -65730,7 +65730,7 @@ talquinos
 talquitas
 taltuzas
 talud
-taludin
+taludines
 talveces
 talvinas
 tamagas
@@ -65756,7 +65756,7 @@ tamarindos
 tamariscineos
 tamariscos
 tamaritanos
-tamariz
+tamarices
 tamarrizquitos
 tamarrusquitos
 tamarugales
@@ -65791,7 +65791,7 @@ tamborilazos
 tamborileos
 tamborileros
 tamboriletes
-tamborin
+tamborines
 tamborinos
 tamboristas
 tamboriteros
@@ -65804,7 +65804,7 @@ tamemes
 tamil
 tamineas
 taminias
-tamiz
+tamices
 tamizaciones
 tamos
 tamojales
@@ -65947,13 +65947,13 @@ tapiceros
 tapidos
 tapierias
 tapillas
-tapin
+tapines
 tapinas
 tapiocas
 tapirujos
 tapis
 tapiscas
-tapiz
+tapices
 tapizados
 tapones
 taponador
@@ -65988,7 +65988,7 @@ taquimecanografos
 taquimetrias
 taquimetricos
 taquimetros
-taquin
+taquines
 taquipneas
 taquiraries
 taras
@@ -66022,7 +66022,7 @@ taranganas
 tarantas
 tarantelas
 taranteras
-tarantin
+tarantines
 tarantulas
 tarantulados
 tarapaqueños
@@ -66084,7 +66084,7 @@ tarificador
 tarijeños
 tarimas
 tarimones
-tarin
+tarines
 tarinas
 tarjas
 tarjador
@@ -66099,7 +66099,7 @@ tarmeños
 taropes
 tarot
 tarquias
-tarquin
+tarquines
 tarquinas
 tarquinadas
 tarras
@@ -66308,7 +66308,7 @@ tectitecas
 tectonicas
 tectonicos
 tecuan
-tecuin
+tecuines
 tedas
 tederos
 tedeum
@@ -66432,7 +66432,7 @@ telepredicador
 teleprocesos
 telequinesias
 teleras
-telerin
+telerines
 teleros
 telerones
 telerrutas
@@ -66462,7 +66462,7 @@ telillas
 telinas
 tell
 tellinas
-telliz
+tellices
 tellizas
 Telmos
 telones
@@ -66712,7 +66712,7 @@ tepalos
 tepes
 tepeaques
 tepeizcuintes
-tepemechin
+tepemechines
 tepetales
 tepetates
 tepetatosos
@@ -66789,7 +66789,7 @@ teredos
 terencianos
 terencos
 terengos
-tereniabin
+tereniabines
 tereques
 tereres
 teresas
@@ -66805,7 +66805,7 @@ teriacales
 teridofitos
 terigüelas
 teristros
-terliz
+terlices
 termas
 termales
 termas
@@ -67210,7 +67210,7 @@ tilicheras
 tilicheros
 tilicos
 tililas
-tilin
+tilines
 tilingos
 tilintes
 tillas
@@ -67311,10 +67311,10 @@ tinterillos
 tinteros
 tintillas
 tintillos
-tintin
+tintines
 tintineantes
 tintineos
-tintirintin
+tintirintines
 tintos
 tintocos
 tintolios
@@ -67591,7 +67591,7 @@ toconales
 tocopillanos
 tocornos
 tocororos
-tocotin
+tocotines
 tocoyales
 toctes
 tocuyos
@@ -67690,11 +67690,11 @@ tomavistas
 tomazas
 tombolas
 tombolos
-tomeguin
+tomeguines
 tomentos
 tomentosos
 tomillos
-tomin
+tomines
 tominejas
 tominejos
 tomismos
@@ -67716,7 +67716,7 @@ tonarios
 toncas
 tonderos
 tondinos
-tondiz
+tondices
 tondos
 toneles
 toneladas
@@ -67876,7 +67876,7 @@ tormentas
 tormentarias
 tormentarios
 tormentilas
-tormentin
+tormentines
 tormentos
 tormentosos
 tormeras
@@ -68237,7 +68237,7 @@ traites
 trajanos
 trajes
 trajeados
-trajin
+trajines
 trajinantes
 trajineras
 trajinerias
@@ -68270,7 +68270,7 @@ tramperias
 tramperos
 trampillas
 trampistas
-trampolin
+trampolines
 tramposos
 trampuchetas
 trancas
@@ -68280,7 +68280,7 @@ trancahilos
 trancanil
 trancazos
 trances
-trancelin
+trancelines
 tranchas
 trancheas
 tranchetes
@@ -68623,18 +68623,18 @@ trasplantador
 trasplantadoras
 trasplantes
 trasponedor
-traspontin
+traspontines
 trasportaciones
 trasportador
 trasportamientos
 trasportes
-trasportin
+trasportines
 trasposiciones
 traspositivos
 traspuestas
 traspuestos
 traspuntes
-traspuntin
+traspuntines
 trasqueros
 trasquilas
 trasquilados
@@ -68701,7 +68701,7 @@ traumatizantes
 traumatologias
 traumatologicos
 traumatologos
-travelin
+travelines
 traversas
 traves
 travesañas
@@ -68784,7 +68784,7 @@ tremis
 tremos
 tremoles
 tremoles
-tremolin
+tremolines
 tremolinas
 tremolos
 tremor
@@ -68797,7 +68797,7 @@ tren
 trenas
 trenados
 trencas
-trencellin
+trencellines
 trencillas
 trencillos
 trencitos
@@ -69287,7 +69287,7 @@ truenos
 trueques
 trufas
 trufador
-trufaldin
+trufaldines
 truhan
 truhanadas
 truhanerias
@@ -69478,7 +69478,7 @@ tupiciones
 tupideces
 tupidos
 tupi-guaranies
-tupin
+tupines
 tupinambos
 tupitainas
 tupitinas
@@ -69544,7 +69544,7 @@ turiones
 turismos
 turistas
 turisticos
-turlerin
+turlerines
 turmas
 turmalinas
 turmeques
@@ -69610,7 +69610,7 @@ tutos
 tutor
 tutorias
 tutorizaciones
-tutriz
+tutrices
 tutues
 tutumilpates
 tutumpotes
@@ -69726,7 +69726,7 @@ ultrasonidos
 ultratumbas
 ultraviolados
 ultravioletas
-ultriz
+ultrices
 uluas
 ululas
 ululatos
@@ -70191,7 +70191,7 @@ valorizaciones
 valorizador
 valquirias
 vals
-Valsain
+Valsaines
 valses
 valuaciones
 valuador
@@ -70308,7 +70308,7 @@ variolosos
 variopintos
 varitas
 variteros
-variz
+varices
 varizos
 Varolios
 varones
@@ -70496,7 +70496,7 @@ velintonias
 velis
 velites
 velivolos
-veliz
+velices
 velleras
 vellidos
 vellos
@@ -70505,7 +70505,7 @@ vellones
 velloneros
 velloras
 vellories
-vellorin
+vellorines
 vellorios
 velloritas
 vellosidades
@@ -70544,7 +70544,7 @@ venadas
 venaderos
 venados
 venador
-venadriz
+venadrices
 venajes
 venales
 venalidades
@@ -70745,7 +70745,7 @@ verdezuelos
 verdiales
 verdianos
 verdigones
-verdin
+verdines
 verdinas
 verdinales
 verdiñales
@@ -71133,7 +71133,7 @@ vilipendiador
 vilipendios
 vilipendiosos
 villas
-villabarquin
+villabarquines
 villaclareños
 Villadiegos
 villajes
@@ -71158,7 +71158,7 @@ villazgos
 villenenses
 villerias
 villorias
-villorin
+villorines
 villorrios
 vilos
 vilordos
@@ -71245,7 +71245,7 @@ violeteras
 violeteros
 violetos
 violias
-violin
+violines
 violinistas
 violones
 violoncelistas
@@ -71362,7 +71362,7 @@ visivos
 vislumbres
 visos
 visogodos
-visomotriz
+visomotrices
 visones
 visontinos
 visor
@@ -71535,7 +71535,7 @@ volandos
 volantas
 volantazos
 volantes
-volantin
+volantines
 volantineros
 volantones
 volapies
@@ -71548,7 +71548,7 @@ volatilidades
 volatilizables
 volatilizaciones
 volatillas
-volatin
+volatines
 volatineros
 volaverunt
 volcados
@@ -71695,7 +71695,7 @@ vulpejas
 vulpinos
 vultos
 vultuosos
-vulturin
+vulturines
 vulturnos
 vulvas
 vuscos
@@ -71899,7 +71899,7 @@ yeyunos
 yezgos
 yibutianos
 yihades
-yin
+yines
 yinas
 yiras
 yiros
@@ -72017,7 +72017,7 @@ zacamecates
 zacapanecos
 zacapelas
 zacapellas
-zacapin
+zacapines
 zacatales
 zacatalosos
 zacates
@@ -72027,7 +72027,7 @@ zacatecanos
 zacatecoluquenses
 zacateras
 zacateros
-zacatin
+zacatines
 zacatones
 zacatonales
 zacatustes
@@ -72098,7 +72098,7 @@ zainos
 zaireños
 zajaries
 zajones
-zajurin
+zajurines
 zalas
 zalachos
 zalagardas
@@ -72165,7 +72165,7 @@ zampatortas
 zampeados
 zampones
 zampoñas
-zampullin
+zampullines
 zampuzos
 zamujos
 zamuradas
@@ -72338,10 +72338,10 @@ zarpaneles
 zarpazos
 zarposos
 zarracaterias
-zarracatin
+zarracatines
 zarracinas
-zarrampin
-zarramplin
+zarrampines
+zarramplines
 zarramplinadas
 zarrapastras
 zarrapastros
@@ -72392,7 +72392,7 @@ Zendavestas
 zendos
 zenit
 zenzontles
-zepelin
+zepelines
 zetas
 zeugmas
 zigofilaceos

@@ -13,9 +13,9 @@ for word in words:
         continue
     elif word.strip().endswith(("a", "e", "o")):
         word = word.strip() + "s\n"
-    elif word.strip().endswith(("ad", "al", "el", "ol", "on", "u", "i")):
+    elif word.strip().endswith(("ad", "al", "el", "ol", "in", "on", "u", "i")):
         word = word.strip() + "es\n"
-    elif word.strip().endswith("ez"):
+    elif word.strip().endswith(("iz", "ez")):
         word = word.strip()[:-1] + "ces\n"
     filtered_words.append(word)
 
