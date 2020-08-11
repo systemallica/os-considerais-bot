@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "os-considerais-bot"
+version = "0.1.0"
+description = "A dumb, serverless Telegram bot."
+authors = ["Andrés Reverón Molina <andres@reveronmolina.me>"]
+license = "MIT"
+repository = "https://github.com/systemallica/os-considerais-bot"
+readme = "README.md"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8.0"
+python-telegram-bot = "^12.8"
+
