@@ -16,6 +16,9 @@ classifiers = [
 python = "^3.8.0"
 python-telegram-bot = "^12.8"
 
+[tool.poetry.dev-dependencies]
+httpx="^0.14.0"
+
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
