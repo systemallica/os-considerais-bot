@@ -10,8 +10,8 @@ from telegram.ext import Dispatcher, CommandHandler
 # Enable logging
 logger = logging.getLogger()
 if logger.handlers:
-    for handler in logger.handlers:
-        logger.removeHandler(handler)
+    for h in logger.handlers:
+        logger.removeHandler(h)
 logging.basicConfig(level=logging.INFO)
 
 # Define responses
@@ -29,6 +29,10 @@ ERROR_RESPONSE = {
 path = Path(__file__).parent / "raw/filtered_words.txt"
 words_file = open(path, 'r')
 words = words_file.readlines()
+
+path = Path(__file__).parent / "raw/singular_words.txt"
+singular_words_file = open(path, 'r')
+singular_words = singular_words_file.readlines()
 
 
 def configure_telegram():
@@ -48,6 +52,7 @@ def configure_telegram():
 def set_up_dispatcher(dispatcher: Dispatcher) -> None:
     dispatcher.add_handler(CommandHandler("start", start))
     dispatcher.add_handler(CommandHandler("consideracion", consideracion))
+    dispatcher.add_handler(CommandHandler("contad_algo", contad_algo))
 
 
 def start(update: Update, context):
@@ -59,7 +64,14 @@ def start(update: Update, context):
 def consideracion(update: Update, context):
     word = words[randrange(len(words))]
     text = "¿Os consideráis " + word.strip() + "?"
-    update.message.reply_text(text)
+    update.message.reply_text(text, quote=False)
+    logger.info('Message sent')
+
+
+def contad_algo(update: Update, context):
+    word = singular_words[randrange(len(singular_words))]
+    text = "Contad algo " + word.strip() + "."
+    update.message.reply_text(text, quote=False)
     logger.info('Message sent')
 
 
