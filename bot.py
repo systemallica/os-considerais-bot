@@ -77,7 +77,7 @@ def contad_algo(update: Update, context):
 
 # Initialize bot and dispatcher
 bot = configure_telegram()
-dp = Dispatcher(bot, None, use_context=True)
+dp = Dispatcher(bot, None)
 set_up_dispatcher(dp)
 
 
@@ -94,5 +94,3 @@ def handler(event, context):
         return ERROR_RESPONSE
 
     return OK_RESPONSE
-
-
